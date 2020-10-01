@@ -1,0 +1,13 @@
+./README.md
+
+node_modules/*
+
+*.test.js
+
+package.json
+
+package-lock.json
+
+./.github/workflows/**/*.yml
+
+./setupTest.js
